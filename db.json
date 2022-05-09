@@ -2166,6 +2166,230 @@
           "title": "Ayurvedic",
           "path": "ayurvedic"
         }
+      ],
+      "mothersDayOffer": [
+        {
+          "id": 1,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/113742/revital_h_capsule_10_s_0.jpg",
+          "title": "Revital H Capsule 10'S",
+          "seller": "Sun Pharmaceutical Industries Ltd",
+          "brand": "Revital",
+          "category": "wellness",
+          "type": "covidEssentials",
+          "salePrice": 93.5,
+          "strikeOfPrice": 110
+        },
+        {
+          "id": 2,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/407923/revital_h_woman_tablet_30_s_0.jpg",
+          "title": "Revital H Woman Tablet 30'S",
+          "seller": "Sun Pharmaceutical Industries Ltd",
+          "brand": "Revital",
+          "category": "wellness",
+          "type": "covidEssentials",
+          "salePrice": 293.25,
+          "strikeOfPrice": 345
+        },
+        {
+          "id": 3,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/113653/revital_h_capsule_60_s_0.jpg",
+          "title": "Revital H Capsule 60'S",
+          "seller": "Sun Pharmaceutical Industries Ltd",
+          "brand": "Revital",
+          "category": "wellness",
+          "type": "covidEssentials",
+          "salePrice": 467.5,
+          "strikeOfPrice": 550
+        },
+        {
+          "id": 4,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/15114/dettol_antiseptic_liquid_60_ml_0_1.jpg",
+          "title": "Dettol Antiseptic Liquid 60 ml",
+          "seller": "Reckitt Benckiser India Ltd",
+          "brand": "Dettol",
+          "category": "wellness",
+          "type": "covidEssentials",
+          "salePrice": 33.27,
+          "strikeOfPrice": 50
+        },
+        {
+          "id": 5,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/328123/revital_h_capsule_30_s_0.jpg",
+          "title": "Revital H Capsule 30'S",
+          "seller": "Sun Pharmaceutical Industries Ltd",
+          "brand": "Revital",
+          "category": "wellness",
+          "type": "covidEssentials",
+          "salePrice": 263.5,
+          "strikeOfPrice": 310
+        },
+        {
+          "id": 6,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/835057/dettol_antiseptic_liquid_550_ml_0.jpg",
+          "title": "Dettol Antiseptic Liquid 550 ml",
+          "seller": "Reckitt Benckiser India Ltd",
+          "brand": "Dettol",
+          "category": "wellness",
+          "type": "covidEssentials",
+          "salePrice": 194.6,
+          "strikeOfPrice": 220
+        },
+        {
+          "id": 7,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/102099/dettol_antiseptic_liquid_1_ltr_0_1.jpg",
+          "title": "Dettol Antiseptic Liquid 1 ltr",
+          "seller": "Reckitt Benckiser India Ltd",
+          "brand": "Dettol",
+          "category": "wellness",
+          "type": "covidEssentials",
+          "salePrice": 331.41,
+          "strikeOfPrice": 380
+        },
+        {
+          "id": 8,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/408222/revital_h_woman_tablet_10_s_0.jpg",
+          "title": "Revital H Woman Tablet 10'S",
+          "seller": "Sun Pharmaceutical Industries Ltd",
+          "brand": "Revital",
+          "category": "wellness",
+          "type": "covidEssentials",
+          "salePrice": 102,
+          "strikeOfPrice": 120
+        },
+        {
+          "id": 9,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/38049/garlic_pearls_capsule_100_s_0.jpg",
+          "title": "Garlic Pearls Capsule 100'S",
+          "seller": "Sun Pharmaceutical Industries Ltd",
+          "brand": "Garlic Pearls",
+          "category": "wellness",
+          "type": "covidEssentials",
+          "salePrice": 127.5,
+          "strikeOfPrice": 150
+        },
+        {
+          "id": 10,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/886988/dettol_antiseptic_liquid_disinfectant_250_ml_0_1.jpg",
+          "title": "Dettol Antiseptic Liquid Disinfectant 250 ml",
+          "seller": "Reckitt Benckiser India Ltd",
+          "brand": "Dettol",
+          "category": "wellness",
+          "type": "covidEssentials",
+          "salePrice": 116.16,
+          "strikeOfPrice": 150
+        }
+      ],
+      "topProducts": [
+        {
+          "id": 191,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/858137/inlife_calcium_vitamin_d3_tablets_60_s_0.jpg",
+          "title": "INLIFE Calcium Vitamin D3 Tablets 60's",
+          "brand": "INLIFE",
+          "category": "wellness",
+          "type": "vitaminsAndSuppliments",
+          "seller": "Mkt: Inlife Pharma Private Limited",
+          "salePrice": 314.3,
+          "strikeOfPrice": 449
+        },
+        {
+          "id": 192,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/839438/fast_up_fortify_health_supplement_tablets_lime_lemon_flavour_10_s_0.jpg",
+          "title": "Fast&Up Fortify Calcium & Magnesium with Vitamin D3 Health Supplement Tablets - Lime & Lemon Flavour 10's",
+          "brand": "Fast&Up",
+          "category": "wellness",
+          "type": "vitaminsAndSuppliments",
+          "seller": "Mkt: Aeronutrix Sports Products Private Limited",
+          "salePrice": 145.8,
+          "strikeOfPrice": 180
+        },
+        {
+          "id": 193,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/858558/inlife_vitamin_d3_5000_iu_capsules_60_s_0.jpg",
+          "title": "INLIFE Vitamin D3 5000 IU Capsules 60's",
+          "brand": "INLIFE",
+          "category": "wellness",
+          "type": "vitaminsAndSuppliments",
+          "seller": "Mkt: Inlife Pharma Private Limited",
+          "salePrice": 438.97,
+          "strikeOfPrice": 699
+        },
+        {
+          "id": 194,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/858571/inlife_multivitamins_and_minerals_for_women_capsules_60_s_0.jpg",
+          "title": "INLIFE Multivitamins and Minerals for Women Capsules 60's",
+          "brand": "INLIFE",
+          "category": "wellness",
+          "type": "vitaminsAndSuppliments",
+          "seller": "Mkt: Inlife Pharma Private Limited",
+          "salePrice": 438.97,
+          "strikeOfPrice": 699
+        },
+        {
+          "id": 195,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/858570/inlife_multivitamins_and_minerals_for_men_capsules_60_s_0.jpg",
+          "title": "INLIFE Multivitamins and Minerals for Men Capsules 60's",
+          "brand": "INLIFE",
+          "category": "wellness",
+          "type": "vitaminsAndSuppliments",
+          "seller": "Mkt: Inlife Pharma Private Limited",
+          "salePrice": 438.97,
+          "strikeOfPrice": 699
+        },
+        {
+          "id": 196,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/858572/inlife_advanced_hair_skin_and_nails_capsule_60_s_0.jpg",
+          "title": "INLIFE Advanced Hair, Skin and Nails Capsule 60's",
+          "brand": "INLIFE",
+          "category": "wellness",
+          "type": "vitaminsAndSuppliments",
+          "seller": "Mkt: Inlife Pharma Private Limited",
+          "salePrice": 443.86,
+          "strikeOfPrice": 699
+        },
+        {
+          "id": 197,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/842856/healthvit_cenvitan_men_multivitamin_multimineral_tablet_60s_0_3.jpg",
+          "title": "HealthVit Cenvitan Men (Multivitamin & Multimineral) Tablet 60's",
+          "brand": "HealthVit",
+          "category": "wellness",
+          "type": "vitaminsAndSuppliments",
+          "seller": "Mkt: West Coast Pharmaceuticals Works Ltd",
+          "salePrice": 450,
+          "strikeOfPrice": 500
+        },
+        {
+          "id": 198,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/885338/fast_up_fortify_effervescent_tablet_lime_and_lemon_flavor_pack_of_3_x_10_s_0.jpg",
+          "title": "Fast&Up Fortify Calcium & Magnesium with Vitamin D3 Effervescent Tablet - Lime & Lemon Flavour (Pack of 3 x 10's)",
+          "brand": "Fast&Up",
+          "category": "wellness",
+          "type": "vitaminsAndSuppliments",
+          "seller": "Mkt: Aeronutrix Sports Products Private Limited",
+          "salePrice": 432,
+          "strikeOfPrice": 540
+        },
+        {
+          "id": 199,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/858143/inlife_omega_3_fish_oil_500_mg_capsules_60s_0_1.jpg",
+          "title": "INLIFE Omega 3 Fish Oil 500 mg Capsules 60's",
+          "brand": "INLIFE",
+          "category": "wellness",
+          "type": "vitaminsAndSuppliments",
+          "seller": "Mkt: Inlife Pharma Private Limited",
+          "salePrice": 330.84,
+          "strikeOfPrice": 499
+        },
+        {
+          "id": 200,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/839440/fast_up_promega_omega_3_rich_fish_oil_softgel_60_s_0.jpg",
+          "title": "Fast&Up Promega Omega 3 Rich Fish Oil 1250 mg Softgel 60's",
+          "brand": "Fast&Up",
+          "category": "wellness",
+          "type": "vitaminsAndSuppliments",
+          "seller": "Mkt: Aeronutrix Sports Products Private Limited",
+          "salePrice": 702.9,
+          "strikeOfPrice": 990
+        }
       ]
     },
     {
@@ -2272,6 +2496,32 @@
         "path": "beauty/men_sGrooming"
       }
     ],
+    "trendingToday": [
+      {
+        "imageUrl": "https://www.netmeds.com/images/cms/aw_rbslider/slides/1651813578_Mini-banner_Web.jpg"
+      },
+      {
+        "imageUrl": "https://www.netmeds.com/images/cms/aw_rbslider/slides/1650651087_Cenvitan_web.jpg"
+      },
+      {
+        "imageUrl": "https://www.netmeds.com/images/cms/aw_rbslider/slides/1650651087_Cenvitan_web.jpg"
+      },
+      {
+        "imageUrl": "https://www.netmeds.com/images/cms/aw_rbslider/slides/1651745843_P_Care_web.jpg"
+      },
+      {
+        "imageUrl": "https://www.netmeds.com/images/cms/aw_rbslider/slides/1648270623_Freeshipping_web.jpg"
+      },
+      {
+        "imageUrl": "https://www.netmeds.com/images/cms/aw_rbslider/slides/1651149238_Bombay-Shaving-Company_web.jpg"
+      },
+      {
+        "imageUrl": "https://www.netmeds.com/images/cms/aw_rbslider/slides/1634972793_Netmeds-masks_Mini_Banner__Web.jpg"
+      },
+      {
+        "imageUrl": "https://www.netmeds.com/images/cms/aw_rbslider/slides/1651058002_Clean-Dry_web.jpg"
+      }
+    ],
     "topInBeauty": [
       {
         "imageUrl": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/maybelline.jpg?v=10",
@@ -2327,32 +2577,7 @@
       "email": "gautamgohil@gmail.com",
       "id": 1,
       "mobileNumber": 9824240421,
-      "cart": [
-        {
-          "id": 1,
-          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/113742/revital_h_capsule_10_s_0.jpg",
-          "title": "Revital H Capsule 10'S",
-          "seller": "Sun Pharmaceutical Industries Ltd",
-          "brand": "Revital",
-          "category": "wellness",
-          "type": "covidEssentials",
-          "salePrice": 93.5,
-          "strikeOfPrice": 110,
-          "qunt": 1
-        },
-        {
-          "id": 2,
-          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/407923/revital_h_woman_tablet_30_s_0.jpg",
-          "title": "Revital H Woman Tablet 30'S",
-          "seller": "Sun Pharmaceutical Industries Ltd",
-          "brand": "Revital",
-          "category": "wellness",
-          "type": "covidEssentials",
-          "salePrice": 293.25,
-          "strikeOfPrice": 345,
-          "qunt": 1
-        }
-      ]
+      "cart": []
     },
     {
       "email": "dddffe",
@@ -2417,6 +2642,35 @@
       "salePrice": 93.5,
       "strikeOfPrice": 110,
       "qunt": 1
+    },
+    {
+      "email": "akshayr.patil96@gmail.com",
+      "mobileNumber": "9561062000",
+      "cart": [
+        {
+          "id": 2,
+          "imageUrl": "https://www.netmeds.com/images/product-v1/150x150/407923/revital_h_woman_tablet_30_s_0.jpg",
+          "title": "Revital H Woman Tablet 30'S",
+          "seller": "Sun Pharmaceutical Industries Ltd",
+          "brand": "Revital",
+          "category": "wellness",
+          "type": "covidEssentials",
+          "salePrice": 293.25,
+          "strikeOfPrice": 345,
+          "qunt": 1
+        }
+      ],
+      "firstName": "Akshay",
+      "lastName": "Patil",
+      "id": 5
+    },
+    {
+      "email": "akshayr.patil96@gmail.com",
+      "mobileNumber": "9561062001",
+      "cart": [],
+      "firstName": "Akshay",
+      "lastName": "Patil",
+      "id": 6
     }
   ]
 }
